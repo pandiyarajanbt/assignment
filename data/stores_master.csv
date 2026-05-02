@@ -1,0 +1,101 @@
+store_id,store_external_id,name,title,store_brand,store_type,city,state,country,region,latitude,longitude
+STR-0001,EXT-48927,store-pune-1,Store Kolkata #1,Star Bazaar,Supermarket,Chennai,Madhya Pradesh,India,South,29.383063,69.017392
+STR-0002,EXT-93942,store-chandigarh-2,Store Coimbatore #2,Easyday,Mini,Delhi,Uttar Pradesh,India,North,34.3692,69.792212
+STR-0003,EXT-36861,store-kolkata-3,Store Chennai #3,Nilgiris,Hypermarket,Hyderabad,Telangana,India,South,14.450709,70.102011
+STR-0004,EXT-57320,store-bengaluru-4,Store Delhi #4,Star Bazaar,Mini,Coimbatore,Maharashtra,India,West,13.817631,82.914806
+STR-0005,EXT-58407,store-nagpur-5,Store Bengaluru #5,Star Bazaar,Supermarket,Mumbai,Telangana,India,Central,16.123022,70.695025
+STR-0004,EXT-25333,store-lucknow-6,Store Nagpur #6,DMart,Express,Mumbai,Madhya Pradesh,India,North,32.003326,96.342079
+STR-0007,EXT-12440,store-bengaluru-7,Store Chennai #7,Nature's Basket,Mini,Kochi,West Bengal,India,West,16.951893,87.923906
+STR-0008,EXT-25338,store-ahmedabad-8,Store Kolkata #8,Star Bazaar,Convenience,Kolkata,West Bengal,India,West,13.965953,95.943137
+STR-0009,EXT-69042,store-chennai-9,Store Delhi #9,Nilgiris,Wholesale,Pune,Rajasthan,India,East,19.768501,95.540308
+STR-0010,EXT-38458,store-bengaluru-10,Store Coimbatore #10,Big Bazaar,Supermarket,Ahmedabad,West Bengal,India,West,33.964181,89.684591
+STR-0011,EXT-91596,store-nagpur-11,Store Jaipur #11,Nature's Basket,Express,Kolkata,Rajasthan,India,West,30.712915,79.034757
+,EXT-88038,store-coimbatore-12,Store Kolkata #12,Reliance Fresh,Mini,Hyderabad,Uttar Pradesh,India,East,30.121998,93.100488
+STR-0013,EXT-61875,store-mumbai-13,Store Chennai #13,Star Bazaar,Mini,Delhi,Telangana,India,Central,29.115924,75.065117
+STR-0014,EXT-44536,store-mumbai-14,Store Ahmedabad #14,Big Bazaar,Convenience,Jaipur,Tamil Nadu,India,South,19.769634,83.779486
+STR-0015,EXT-17690,store-delhi-15,Store Hyderabad #15,More Supermarket,Mini,Hyderabad,Madhya Pradesh,India,West,17.787156,95.069411
+STR-0016,EXT-87333,store-chennai-16,Store Jaipur #16,More Supermarket,Express,Coimbatore,Tamil Nadu,India,Central,9.93299,89.803888
+STR-0017,EXT-80106,store-indore-17,Store Indore #17,Star Bazaar,Hypermarket,Ahmedabad,Kerala,India,Central,27.361698,81.371216
+STR-0018,EXT-15757,store-indore-18,Store Bengaluru #18,Big Bazaar,Express,Bengaluru,Uttar Pradesh,India,Central,not_available,85.1754
+STR-0019,EXT-82705,store-pune-19,Store Pune #19,DMart,Express,Kolkata,Uttar Pradesh,India,East,31.113303,85.074901
+STR-0020,EXT-43255,store-lucknow-20,Store Nagpur #20,DMart,Mini,Jaipur,Rajasthan,India,West,16.206835,78.205035
+STR-0021,EXT-72512,store-hyderabad-21,Store Pune #21,Spar India,Express,Mumbai,Delhi,India,Central,29.654313,84.825775
+STR-0022,EXT-43582,store-chandigarh-22,Store Hyderabad #22,Reliance Fresh,Supermarket,Jaipur,Karnataka,India,North,21.197024,80.774903
+STR-0023,EXT-55074,store-nagpur-23,Store Bengaluru #23,Star Bazaar,Wholesale,Bengaluru,Kerala,India,East,19.644552,999.999
+STR-0024,EXT-26534,store-chandigarh-24,Store Kochi #24,More Supermarket,Wholesale,Delhi,Rajasthan,India,East,26.029024,86.101547
+STR-0025,EXT-85373,store-kolkata-25,Store Kochi #25,Big Bazaar,Convenience,Chennai,Delhi,India,South,8.918317,87.307695
+STR-0026,EXT-82057,store-hyderabad-26,Store Hyderabad #26,DMart,Express,Coimbatore,Punjab,India,East,21.55657,71.988075
+STR-0027,EXT-66557,store-hyderabad-27,Store Indore #27,Spar India,Express,Indore,Madhya Pradesh,India,North,26.815868,84.429706
+STR-0028,EXT-88224,store-indore-28,Store Kolkata #28,Reliance Fresh,Express,Chandigarh,Punjab,India,South,10.68581,76.902339
+STR-0029,EXT-20460,store-hyderabad-29,Store Kochi #29,Reliance  Fresh,Wholesale,Kolkata,Punjab,India,Central,29.920765,87.641683
+STR-0030,EXT-66054,store-chennai-30,Store Mumbai #30,Reliance Fresh,Express,Nagpur,Tamil Nadu,India,West,19.297968,78.086972
+STR-0031,EXT-94600,store-jaipur-31,Store Coimbatore #31,Reliance Fresh,Mini,Mumbai,Telangana,India,West,24.826424,87.83338
+STR-0032,EXT-58853,store-kolkata-32,Store Chennai #32,Reliance Fresh,Supermarket,Delhi,Karnataka,India,South,25.14157,68.583208
+STR-0033,EXT-14540,store-ahmedabad-33,Store Pune #33,Reliance Fresh,Convenience,Hyderabad,Tamil Nadu,India,West,34.502629,82.835602
+STR-0034,EXT-78062,store-ahmedabad-34,Store Chandigarh #34,Big Bazaar,Hypermarket,Jaipur,Uttar Pradesh,India,South,23.256755,72.754048
+STR-0035,EXT-65355,store-coimbatore-35,Store Jaipur #35,DMart,Wholesale,Jaipur,Madhya Pradesh,India,Central,34.574065,87.817142
+STR-0036,EXT-33594,store-kolkata-36,Store Coimbatore #36,Nature's Basket,Express,Chennai,Rajasthan,India,North,24.39398,90.338054
+STR-0037,EXT-36261,store-lucknow-37,Store Pune #37,Easyday,Hypermarket,Pune,Maharashtra,India,North,21.826313,77.570796
+STR-0038,EXT-32276,store-mumbai-38,Store Nagpur #38,Easyday,Hypermarket,Coimbatore,Rajasthan,India,Central,31.590999,94.955608
+STR-0039,EXT-82925,store-coimbatore-39,Store Nagpur #39,Nature's Basket,Wholesale,Bengaluru,Kerala,India,South,14.858023,77.744967
+STR-0040,EXT-97330,store-kolkata-40,Store Ahmedabad #40,More Supermarket,Express,Indore,Karnataka,India,North,18.893145,85.709902
+STR-0041,EXT-25873,store-bengaluru-41,Store Kolkata #41,Nilgiris,Supermarket,Kochi,Karnataka,India,South,16.024033,78.932887
+STR-0042,EXT-27018,store-nagpur-42,Store Lucknow #42,Reliance Fresh,Supermarket,Chandigarh,Karnataka,India,West,10.242556,72.191096
+STR-0043,EXT-81336,store-mumbai-43,Store Ahmedabad #43,Easyday,Mini,Indore,Karnataka,India,Central,11.437085,84.342777
+  STR-0044  ,EXT-75862,store-ahmedabad-44,Store Kolkata #44,  Reliance Fresh  ,Wholesale, Mumbai ,Punjab,India,North,26.483608,92.758577
+STR-0045,EXT-44054,store-kochi-45,Store Nagpur #45,Nilgiris,Mini,Lucknow,Rajasthan,India,West,27.45189,85.763901
+STR-0046,EXT-81770,store-coimbatore-46,Store Lucknow #46,More Supermarket,Wholesale,Delhi,Telangana,India,South,8.338698,83.779282
+STR-0047,EXT-82745,store-mumbai-47,Store Bengaluru #47,Nature's Basket,Supermarket,Delhi,Punjab,India,Central,31.447361,87.588439
+STR-0048,EXT-99283,store-kochi-48,Store Chandigarh #48,Spencer's,Mini,Nagpur,Delhi,India,West,24.881659,88.518429
+STR-0049,EXT-31396,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,Store Chandigarh #49,Easyday,Supermarket,Delhi,Uttar Pradesh,India,North,31.981324,93.162634
+STR-0050,EXT-58360,store-mumbai-50,Store Pune #50,Nilgiris,Express,Delhi,Madhya Pradesh,India,North,8.122777,86.190306
+STR-0051,EXT-14693,store-ahmedabad-51,Store Bengaluru #51,DMart,Wholesale,Bengaluru,Karnataka,India,South,26.189484,75.845112
+STR-0052,EXT-37325,store-hyderabad-52,Store Chennai #52,DMart,Hypermarket,Coimbatore,Punjab,India,North,25.177436,69.026153
+STR-0053,EXT-35502,store-coimbatore-53,Store Delhi #53,Spencer's,Mini,Kochi,Tamil Nadu,India,Central,25.66734,86.753964
+STR-0054,EXT-96178,store-hyderabad-54,,Star Bazaar,Mini,Ahmedabad,Gujarat,India,South,32.508082,73.346842
+STR-0055,EXT-98153,store-delhi-55,Store Nagpur #55,DMart,Hypermarket,Chandigarh,Maharashtra,India,East,31.24056,87.301864
+STR-0056,EXT-53053,store-bengaluru-56,Store Hyderabad #56,DMart,Convenience,Hyderabad,West Bengal,India,Central,33.550294,73.985431
+STR-0057,EXT-58381,store-ahmedabad-57,Store Hyderabad #57,Big Bazaar,Hypermarket,Mumbai,Uttar Pradesh,India,South,14.038459,82.490564
+STR-0058,EXT-36084,store-lucknow-58,Store Delhi #58,Spencer's,Express,Chennai,West Bengal,India,East,13.728844,91.305023
+STR-0059,EXT-16071,store-delhi-59,Store Kochi #59,Spencer's,Wholesale,Jaipur,Madhya Pradesh,india,South,17.022557,76.780701
+STR-0060,EXT-74079,store-kolkata-60,Store Hyderabad #60,Star Bazaar,Mini,Kochi,Punjab,INDIA,North,12.871205,84.378871
+STR-0061,EXT-44691,store-chandigarh-61,Store Chennai #61,Nilgiris,Express,Kochi,Karnataka, India ,South,34.158737,95.040624
+STR-0062,EXT-38395,store-ahmedabad-62,Store Kochi #62,Spar India,Wholesale,Pune,Gujarat,India,Central,28.916677,81.133374
+STR-0063,EXT-89522,store-bengaluru-63,Store Lucknow #63,Spencer's,Express,Bengaluru,Uttar Pradesh,India,South,18.343269,87.687923
+STR-0064,EXT-36316,store-coimbatore-64,Store Jaipur #64,DMart,Supermarket,Ahmedabad,Kerala,India,North,27.594116,86.781492
+STR-0065,EXT-90659,store-chandigarh-65,Store Nagpur #65,Star Bazaar,Wholesale,Jaipur,Rajasthan,India,Central,11.72458,68.733044
+STR-0066,EXT-77275,store-hyderabad-66,Store Kochi #66,Nilgiris,Mini,Delhi,Madhya Pradesh,India,Central,33.017402,69.462686
+STR-0067,EXT-45999,store-pune-67,Store Chandigarh #67,DMart,Supermarket,Bengaluru,Gujarat,India,East,9.967807,87.266181
+STR-0068,EXT-46437,store-hyderabad-68,Store Ahmedabad #68,Nature's Basket,Mini,Coimbatore,Uttar Pradesh,India,South,33.48607,73.279399
+STR-0069,EXT-22172,store-nagpur-69,Store Hyderabad #69,Nilgiris,Hypermarket,Coimbatore,Gujarat,India,West,18.806213,89.948421
+STR-0070,EXT-55689,store-nagpur-70,Store Pune #70,Nilgiris,Convenience,Chandigarh,Delhi,India,Central,22.175545,74.789547
+STR-0071,EXT-61850,store-chennai-71,Store Lucknow #71,Spar India,Mini,Mumbai,West Bengal,India,North,28.797008,95.220257
+STR-0072,EXT-84502,store-indore-72,Store Kolkata #72,DMart,Hypermarket,Delhi,Telangana,India,Central,11.532015,96.791566
+STR-0073,EXT-58021,store-hyderabad-73,Store Ahmedabad #73,Spar India,Convenience,Hyderabad,Punjab,India,North,31.116744,79.090238
+STR-0074,EXT-64153,store-coimbatore-74,Store Ahmedabad #74,Nature's Basket,Supermarket,Ahmedabad,Rajasthan,India,East,19.995072,84.514652
+STR-0075,EXT-55883,store-ahmedabad-75,Store Kolkata #75,Nilgiris,Wholesale,Chandigarh,Rajasthan,India,South,20.237632,80.041651
+STR-0076,EXT-93807,store-chandigarh-76,Store Kochi #76,Nilgiris,Mini,Bengaluru,Punjab,India,West,-999,91.720107
+STR-0077,EXT-88720,store-coimbatore-77,Store Jaipur #77,More Supermarket,Express,Jaipur,Maharashtra,India,West,28.652055,72.012323
+STR-0078,EXT-44452,store-chandigarh-78,Store Jaipur #78,Star Bazaar,Mini,Chandigarh,Punjab,India,West,32.285004,82.578051
+STR-0079,EXT-15892,store-pune-79,Store Pune #79,Spar India,Express,Ahmedabad,Punjab,India,South,34.993477,83.4454
+STR-0080,EXT-80826,store-delhi-80,Store Kolkata #80,Easyday,Convenience,Ahmedabad,Madhya Pradesh,India,West,25.476485,82.09211
+STR-0081,,store-ahmedabad-81,Store Nagpur #81,Nilgiris,Hypermarket,Chandigarh,West Bengal,India,North,34.936198,72.061601
+STR-0082,EXT-72104,store-lucknow-82,Store Indore #82,Spencer's,Mini,Hyderabad,Madhya Pradesh,India,East,21.966867,71.192939
+STR-0083,EXT-32973,store-pune-83,Store Kochi #83,Easyday,Hypermarket,Chennai,Maharashtra,India,East,31.462507,70.570134
+STR-0084,EXT-31232,store-pune-84,Store Bengaluru #84,Big Bazaar,Mini,Kochi,Rajasthan,India,Central,31.375012,69.01981
+STR-0085,EXT-83145,store-kochi-85,Store Lucknow #85,Easyday,Wholesale,Pune,Tamil Nadu,India,South,22.108086,73.119377
+12345,EXT-15196,store-nagpur-86,Store Indore #86,Nature's Basket,Convenience,Coimbatore,Delhi,India,Central,16.532152,87.810931
+STR-0087,EXT-57514,store-bengaluru-87,Store Coimbatore #87,Nature's Basket,Express,Bengaluru,Uttar Pradesh,India,South,14.708698,68.952962
+STR-0088,EXT-30379,store-indore-88,Store Mumbai #88,Star Bazaar,Hypermarket,Kolkata,Punjab,India,South,25.235256,84.652684
+STR-0089,EXT-63507,store-mumbai-89,Store Bengaluru #89,Nilgiris,Express,Chandigarh,Tamil Nadu,India,Central,15.680293,85.513432
+STR-0090,EXT-42639,store-coimbatore-90,Store Indore #90,Nilgiris,Express,Nagpur,Punjab,India,North,19.980548,72.081084
+STR-0091,EXT-40635,store-nagpur-91,   ,DMart,Hypermarket,Bengaluru,Kerala,India,South,17.581722,90.179667
+STR-0092,EXT-16601,store-kolkata-92,Store Jaipur #92,DMart,Mini,Mumbai,Uttar Pradesh,India,Central,10.18965,75.690628
+STR-0093,EXT-93624,store-ahmedabad-93,Store Ahmedabad #93,Big Bazaar,Express,Hyderabad,Maharashtra,India,North,14.599046,95.198714
+STR-0094,EXT-85253,store-hyderabad-94,Store Lucknow #94,Spencer's,Convenience,Mumbai,Karnataka,India,North,19.062945,90.881643
+STR-0095,EXT-59983,store-coimbatore-95,Store Hyderabad #95,Spencer's,Hypermarket,Mumbai,Maharashtra,India,East,28.889031,88.761669
+STR-0096,EXT-12347,store-nagpur-96,Store Bengaluru #96,Reliance Fresh,Supermarket,Hyderabad,Delhi,India,Central,31.358116,85.68552
+STR-0097,EXT-71244,store-delhi-97,Store Coimbatore #97,More Supermarket,Wholesale,Hyderabad,Karnataka,India,West,18.401908,92.9208
+STR-0098,EXT-84061,store-lucknow-98,Store Delhi #98,More Supermarket,Express,Coimbatore,Gujarat,India,South,13.209076,92.453407
+STR-0099,EXT-17686,store-ahmedabad-99,Store Delhi #99,Big Bazaar,Convenience,Indore,Delhi,India,North,9.946377,78.836945
+STR-0100,EXT-80521,store-indore-100,Store Delhi #100,Big Bazaar,Wholesale,Coimbatore,Punjab,India,East,14.640602,78.576046
